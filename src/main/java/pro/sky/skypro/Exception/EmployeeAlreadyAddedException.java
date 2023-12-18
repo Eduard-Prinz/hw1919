@@ -1,4 +1,4 @@
-package employeebook2course5lesson.exception;
+package pro.sky.skypro.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

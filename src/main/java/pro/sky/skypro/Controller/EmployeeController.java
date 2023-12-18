@@ -1,7 +1,7 @@
-package employeebook2course5lesson.controller;
+package pro.sky.skypro.Controller;
 
-import employeebook2course5lesson.model.Employee;
-import employeebook2course5lesson.service.EmployeeService;
+import pro.sky.skypro.model.Employee;
+import pro.sky.skypro.service.EmployeeService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

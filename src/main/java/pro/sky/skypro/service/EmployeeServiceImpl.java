@@ -1,9 +1,9 @@
-package employeebook2course5lesson.service;
+package pro.sky.skypro.service;
 
 
-import employeebook2course5lesson.exception.EmployeeAlreadyAddedException;
-import employeebook2course5lesson.exception.EmployeeNotFoundException;
-import employeebook2course5lesson.model.Employee;
+import pro.sky.skypro.Exception.EmployeeAlreadyAddedException;
+import pro.sky.skypro.Exception.EmployeeNotFoundException;
+import pro.sky.skypro.model.Employee;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;
@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 @Service
-public class EmployeeServiceImpl implements EmployeeService {
+public class EmployeeServiceImpl implements pro.sky.skypro.service.EmployeeService {
 
     private final List<Employee> employees;
 

@@ -1,4 +1,4 @@
-package employeebook2course5lesson.model;
+package pro.sky.skypro.model;
 
 import java.util.Objects;
 

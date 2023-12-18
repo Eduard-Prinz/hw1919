@@ -1,6 +1,6 @@
-package employeebook2course5lesson.service;
+package pro.sky.skypro.service;
 
-import employeebook2course5lesson.model.Employee;
+import pro.sky.skypro.model.Employee;
 
 import java.util.Collection;
 
